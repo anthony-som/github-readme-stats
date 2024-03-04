@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+    pastel_dreams: {
+    title_color: "#e6dada",
+    icon_color: "#d1e8f2",
+    text_color: "#87bdd8",
+    bg_color: "#f3e8ee",
+  },
 };
 
 export default themes;
